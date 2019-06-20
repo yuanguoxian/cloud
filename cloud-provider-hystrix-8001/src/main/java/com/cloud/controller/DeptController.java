@@ -17,8 +17,6 @@ import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 
 @RestController
 public class DeptController {
-
-	// 注入服务发现客户端
 	@Autowired
 	private DiscoveryClient discoveryClient;
 	@Autowired
