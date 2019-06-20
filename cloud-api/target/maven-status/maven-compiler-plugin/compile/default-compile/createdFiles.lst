@@ -1,0 +1,4 @@
+com\cloud\entities\Dept.class
+com\cloud\service\DeptFeignClientServiceFactory.class
+com\cloud\service\DeptFeignClientService.class
+com\cloud\service\DeptFeignClientServiceFactory$1.class
