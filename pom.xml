@@ -10,7 +10,7 @@
 		<mysql.version>8.0.16</mysql.version>
 		<druid.version>1.1.16</druid.version>
 		<mybatis.spring.version>2.0.1</mybatis.spring.version>
-		<logback.version>1.2.3</logback.version>
+		<logback.version>1.2.7</logback.version>
 		<slf4j.version>1.7.26</slf4j.version>
 		<junit.version>4.12</junit.version>
 		<springloaded.version>1.2.8.RELEASE</springloaded.version>
